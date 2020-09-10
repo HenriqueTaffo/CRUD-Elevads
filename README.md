@@ -16,7 +16,7 @@ Se optar pela utilização do MYSQL é necessário antes de iniciar a instalaç�
 realizar a aquisição do serviço junto a MySQL AB e instalá-lo na máquina que será servidor de banco de dados. A
 Elevads não se responsabiliza pela instalação do MYSQL.
 O MYSQL é serviços de banco de dados da MySQL AB, e fornecido junto ao CD de
-instalação do Elevads.
+instalação do Crud.
 Se optar pela instalação do MYSQL, nosso suporte técnico está apto a efetuar o processo através de
 conexão remota, que deve ser agendada com antecedência.
 Abaixo, segue os procedimentos para instalação do sistema Crud no servidor e nas estações.
